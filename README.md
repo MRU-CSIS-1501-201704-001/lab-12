@@ -34,3 +34,13 @@ We have Processing installed in our labs (including B107 and B103); if you want 
 1. Start the _Interactivity_ tutorial
 1. Draw yourself some **colored** points, lines, rectangles, and ellipses - for the rectangles and ellipses, make sure you create shapes with different fills and strokes.
 1. You can save your sketchbook if you wish through the File menu - make sure you choose a reasonable save location, as the default location is NOT reasonable!
+
+---
+
+## Processing Practice - Interactivity
+
+1. Got to https://processing.org/tutorials/
+1. Start the _Interactivity_ tutorial
+1. Draw yourself some **colored** points, lines, rectangles, and ellipses - for the rectangles and ellipses, make sure you create shapes with different fills and strokes.
+1. You can save your sketchbook if you wish through the File menu - make sure you choose a reasonable save location, as the default location is NOT reasonable!
+
