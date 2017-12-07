@@ -3,6 +3,7 @@
 ## What this lab gets you
 
 * You'll get to do something a bit more visual by kicking the tires on Processing, a "flexible software sketchbook and a language for learning how to code within the context of the visual arts". (Quote taken from the [Processing website](https://processing.org/).) Processing is based on the Java language, so you should feel right at home. 
+* Lest you think Processing is just some kind of lame toy language, take some time to look at some of the very cool stuff that was created with (or whose creation was aided by) Processing at the [curated exhibition page](https://processing.org/exhibition/) - some of the older links may be dead and some pages are not in English...because Processing is used throughout the world!
 
 ## Getting Ready
 
