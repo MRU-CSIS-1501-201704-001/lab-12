@@ -31,67 +31,6 @@ We have Processing installed in our labs (including B107 and B103); if you want 
 ## Processing Practice - Color
 
 1. Got to https://processing.org/tutorials/
-1. Start the _Color_ tutorial
+1. Start the _Interactivity_ tutorial
 1. Draw yourself some **colored** points, lines, rectangles, and ellipses - for the rectangles and ellipses, make sure you create shapes with different fills and strokes.
 1. You can save your sketchbook if you wish through the File menu - make sure you choose a reasonable save location, as the default location is NOT reasonable!
-
----
-
-## Programming Practice 3
-
-Switch driver and navigator.
-
-1. Use the same project.
-1. Create a new class in the project called `WordMixMaster`.
-1. Create a standard Java main in that class.
-1. Create code that solves the following problem (adapted from Horstmann E4.7):
-
-    _Create a program that creates a word jumble, following this algorithm:_
-
-        Read a word with length >= 3 (re-prompt if necessary) 
-        Repeat word.length() times  
-            Pick a random position i in the word that is not the last position
-            Pick a random position j > i in the word
-            Swap the letters at positions i and j
-        Print the word  
-
-When you think you have completed the task, call your instructor over.
-
----
-
-## Programming Practice 4
-
-Switch driver and navigator.
-
-1. Use the same project.
-1. Create a new class in the project called `BlintzButlerRefined`.
-1. Create a standard Java main in that class.
-1. Create code that solves the following problem:
-
-    _Your blintz butler was so awesome, the public is clamouring for more. You've decided to improve the program by adding the following additional features:_
-
-    * If the user enters in a non-integer, the program will print "Ma'am? (or Sir?)" and then re-prompt.
-    * If the user enters a 0, the program will print "Feeling unwell, ma'am? Perhaps another blintz might help." and then re-prompt.
-    * If the user enters a negative number, the program will print "How droll." and then re-prompt.
-
-    _Here is an example run of the improved program:_
-
-        Please enter the number of blintzes in the house: 3
-
-        How many blintzes would you like, ma'am? Avast there!
-        
-        Ma'am?
-
-        How many blintzes would you like, ma'am? 0
-
-        Feeling unwell, ma'am? Perhaps another blintz might help.
-
-        How many blintzes would you like, ma'am? -4
-
-        How droll.
-
-        How many blintzes would you like, ma'am? 3
-
-        Very good, ma'am - here are your 3 blintzes. Enjoy.
-
-        I regret to inform you that we no longer have any blintzes remaining.
